@@ -48,6 +48,8 @@ coverage.xml
 datos/raw/
 datos/anonimizados/
 datos/ejemplos/
+datos/*.csv
+datos/**/*.csv
 *.csv
 *.xlsx
 *.xls
