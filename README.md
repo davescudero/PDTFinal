@@ -248,14 +248,8 @@ curl -X POST http://localhost:3000/api/predictive \
 
 ### **Working Backwards**
 - 📋 [`working_backwards/WORKING_BACKWARDS_FINAL.md`](working_backwards/WORKING_BACKWARDS_FINAL.md) - Documento completo
-- 📰 [`working_backwards/press_release_actualizado.md`](working_backwards/press_release_actualizado.md) - Press release
+- 📰 [`working_backwards/press_release_actualizado.md`](working_backwards/press_release.md) - Press release
 - ❓ [`working_backwards/faq.md`](working_backwards/faq.md) - Preguntas frecuentes
-
-### **Documentación Técnica**
-- 🔧 [`dashboard/.../SISTEMA_HIBRIDO_FUNCIONANDO.md`](dashboard/Dashboard%20de%20Economía%20de%20la%20Salud/SISTEMA_HIBRIDO_FUNCIONANDO.md) - Estado técnico
-- 🔑 [`dashboard/.../CREDENCIALES_AWS_CONFIGURADAS.md`](dashboard/Dashboard%20de%20Economía%20de%20la%20Salud/CREDENCIALES_AWS_CONFIGURADAS.md) - Configuración AWS
-
-
 
 ---
 
