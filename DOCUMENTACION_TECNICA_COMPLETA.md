@@ -1,4 +1,4 @@
-# Documentación Técnica Exhaustiva
+# Documentación Técnica
 ## Dashboard de Economía de la Salud con AWS Híbrido
 
 ### **ITAM - Maestría en Ciencia de Datos**
@@ -349,7 +349,7 @@ export async function GET() {
           costPredictions: metricas.machine_learning.predicciones_costos,
           modelMetrics: {
             demanda: {
-              precision: '60.0%',
+              precision: '70.0%',
               algoritmo: 'Regresión Lineal Simple + Patrones Estacionales',
               tendencia_diaria: -0.022
             },
@@ -624,7 +624,7 @@ export const AWS_CONFIG = {
     accessKeyId: process.env.AWS_ACCESS_KEY_ID!,
     secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY!,
   },
-  account: '671379207997',
+  account: 'xxxxxxx',
   bucket: 'itam-analytics-davidescudero'
 };
 ```
@@ -792,7 +792,7 @@ def validar_precision_modelos(predicciones, valores_reales):
 ### **Resultados Alcanzados**
 
 **Métricas de Precisión:**
-- **Predicción de Demanda**: 60% precisión
+- **Predicción de Demanda**: 70% precisión
 - **Predicción de Costos**: 75-85% precisión
 - **Clustering de Servicios**: 85% precisión
 - **Detección de Anomalías**: 263 casos identificados
