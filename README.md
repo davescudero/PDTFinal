@@ -200,7 +200,7 @@ npm run dev
 ```env
 # AWS Configuration
 AWS_REGION=us-east-1
-AWS_ACCOUNT_ID=671379207997
+AWS_ACCOUNT_ID=xxxxxxx
 AWS_ACCESS_KEY_ID=tu_access_key
 AWS_SECRET_ACCESS_KEY=tu_secret_key
 
