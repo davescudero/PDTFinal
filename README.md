@@ -25,19 +25,6 @@ npm run dev
 - **Tendencias**: `http://localhost:3000/trends`
 - **Reportes**: `http://localhost:3000/reports`
 
-### **3. Prueba AWS real:**
-```bash
-# Upload a S3 con anonimización
-curl -X POST http://localhost:3000/api/aws/s3/upload \
-  -H "Content-Type: application/json" \
-  -d '{"data":[{"fecha":"2024-05-28","servicio":"URGENCIAS","edad":45}],"filename":"test"}'
-
-# Análisis de sentimiento
-curl -X POST http://localhost:3000/api/aws/sentiment \
-  -H "Content-Type: application/json" \
-  -d '{"text":"El paciente presenta excelente recuperación"}'
-```
-
 ---
 
 ## 📁 **Estructura del Proyecto**
