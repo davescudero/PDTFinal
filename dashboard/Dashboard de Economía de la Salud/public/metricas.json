@@ -1,0 +1,13 @@
+{
+    "total_pacientes": 1678,
+    "costo_total": 265140538.23967,
+    "costo_promedio": 158009.85592352206,
+    "costo_mediano": 82578.16939,
+    "costo_minimo": 318.0,
+    "costo_maximo": 4634012.17576,
+    "costo_total_nivel_1": 34184830.316857606,
+    "costo_promedio_nivel_1": 20372.36610063028,
+    "costo_mediano_nivel_1": 7396.46012525,
+    "costo_minimo_nivel_1": 94.0,
+    "costo_maximo_nivel_1": 458143.315574
+}

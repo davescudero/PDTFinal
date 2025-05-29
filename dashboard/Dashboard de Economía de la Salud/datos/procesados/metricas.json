@@ -1,0 +1,161 @@
+{
+  "urgencias": {
+    "metricas_principales": {
+      "total_facturado": 265140538.23967,
+      "total_costo_directo": 34184830.316857606,
+      "costo_promedio": 158009.85592352206,
+      "margen_bruto": 87.10690166663359
+    },
+    "distribucion_costos": [
+      {
+        "diagnostico": "MEJORÍA",
+        "sum": 182137785.81,
+        "count": 1360,
+        "porcentaje": 85.11
+      },
+      {
+        "diagnostico": "DEFUNCIÓN",
+        "sum": 60268101.94,
+        "count": 145,
+        "porcentaje": 9.07
+      },
+      {
+        "diagnostico": "VOLUNTAD PROPIA",
+        "sum": 6931351.99,
+        "count": 43,
+        "porcentaje": 2.69
+      },
+      {
+        "diagnostico": "TRASLADO A OTRA UNIDAD",
+        "sum": 4260410.74,
+        "count": 15,
+        "porcentaje": 0.94
+      },
+      {
+        "diagnostico": "Traslado a otra Unidad",
+        "sum": 4228999.75,
+        "count": 1,
+        "porcentaje": 0.06
+      },
+      {
+        "diagnostico": "OTRO",
+        "sum": 3055489.62,
+        "count": 24,
+        "porcentaje": 1.5
+      },
+      {
+        "diagnostico": "CURACIÓN",
+        "sum": 591537.47,
+        "count": 6,
+        "porcentaje": 0.38
+      },
+      {
+        "diagnostico": "Mejoría",
+        "sum": 129851.25,
+        "count": 3,
+        "porcentaje": 0.19
+      },
+      {
+        "diagnostico": "Otro",
+        "sum": 112449.7,
+        "count": 1,
+        "porcentaje": 0.06
+      }
+    ],
+    "alertas": [
+      {
+        "titulo": "Estancias Prolongadas",
+        "descripcion": "179 casos con estancias superiores al doble del promedio",
+        "severidad": "media",
+        "valor": "179",
+        "tipo": "operacional"
+      },
+      {
+        "titulo": "Tasa de Mortalidad Elevada",
+        "descripcion": "Tasa de mortalidad del 8.64% (145 casos)",
+        "severidad": "alta",
+        "valor": 8.64123957091776,
+        "tipo": "clinico"
+      }
+    ]
+  },
+  "hospitalizacion": {
+    "metricas_principales": {
+      "total_facturado": 265140538.23967,
+      "total_costo_directo": 34184830.316857606,
+      "costo_promedio": 158009.85592352206,
+      "margen_bruto": 87.10690166663359
+    },
+    "distribucion_costos": [
+      {
+        "diagnostico": "URGENCIAS",
+        "sum": 223672146.02,
+        "count": 1218,
+        "porcentaje": 86.05
+      },
+      {
+        "diagnostico": "CIRUGÍA",
+        "sum": 13044939.22,
+        "count": 88,
+        "porcentaje": 5.02
+      },
+      {
+        "diagnostico": "ORL",
+        "sum": 10169584.67,
+        "count": 162,
+        "porcentaje": 3.91
+      },
+      {
+        "diagnostico": "NEUMOLOGÍA",
+        "sum": 6222759.55,
+        "count": 35,
+        "porcentaje": 2.39
+      },
+      {
+        "diagnostico": "CIENI",
+        "sum": 3395321.69,
+        "count": 15,
+        "porcentaje": 1.31
+      },
+      {
+        "diagnostico": "NEUM. PED.",
+        "sum": 3099649.56,
+        "count": 50,
+        "porcentaje": 1.19
+      },
+      {
+        "diagnostico": "HOSP. DE DÍA",
+        "sum": 140572.81,
+        "count": 3,
+        "porcentaje": 0.05
+      },
+      {
+        "diagnostico": "MEDICINA DEL SUEÑO",
+        "sum": 112692.55,
+        "count": 2,
+        "porcentaje": 0.04
+      },
+      {
+        "diagnostico": "T.I. PEDIÁTRICA",
+        "sum": 29203.37,
+        "count": 1,
+        "porcentaje": 0.01
+      },
+      {
+        "diagnostico": "C. TUBERCULOSIS",
+        "sum": 22501.65,
+        "count": 1,
+        "porcentaje": 0.01
+      }
+    ],
+    "alertas": [
+      {
+        "titulo": "Casos de Alto Costo Detectados",
+        "descripcion": "84 casos con costos superiores al percentil 95 ($541,787.24)",
+        "severidad": "alta",
+        "valor": "84",
+        "tipo": "financiero"
+      }
+    ]
+  }
+}

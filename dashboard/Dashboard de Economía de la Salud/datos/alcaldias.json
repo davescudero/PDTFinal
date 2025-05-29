@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IZTAPALAPA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.1, 19.3], [-99.0, 19.3], [-99.0, 19.4], [-99.1, 19.4], [-99.1, 19.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TLALPAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.2, 19.2], [-99.1, 19.2], [-99.1, 19.3], [-99.2, 19.3], [-99.2, 19.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COYOACAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.2, 19.3], [-99.1, 19.3], [-99.1, 19.4], [-99.2, 19.4], [-99.2, 19.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GUSTAVO A. MADERO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.1, 19.4], [-99.0, 19.4], [-99.0, 19.5], [-99.1, 19.5], [-99.1, 19.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VENUSTIANO CARRANZA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.1, 19.4], [-99.0, 19.4], [-99.0, 19.5], [-99.1, 19.5], [-99.1, 19.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MIGUEL HIDALGO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.2, 19.4], [-99.1, 19.4], [-99.1, 19.5], [-99.2, 19.5], [-99.2, 19.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AZCAPOTZALCO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.2, 19.4], [-99.1, 19.4], [-99.1, 19.5], [-99.2, 19.5], [-99.2, 19.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "XOCHIMILCO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.1, 19.2], [-99.0, 19.2], [-99.0, 19.3], [-99.1, 19.3], [-99.1, 19.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MILPA ALTA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.0, 19.1], [-98.9, 19.1], [-98.9, 19.2], [-99.0, 19.2], [-99.0, 19.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TLAHUAC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.0, 19.2], [-98.9, 19.2], [-98.9, 19.3], [-99.0, 19.3], [-99.0, 19.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAGDALENA CONTRERAS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.2, 19.1], [-99.1, 19.1], [-99.1, 19.2], [-99.2, 19.2], [-99.2, 19.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALVARO OBREGON"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.2, 19.3], [-99.1, 19.3], [-99.1, 19.4], [-99.2, 19.4], [-99.2, 19.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BENITO JUAREZ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.1, 19.3], [-99.0, 19.3], [-99.0, 19.4], [-99.1, 19.4], [-99.1, 19.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CUAJIMALPA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.3, 19.3], [-99.2, 19.3], [-99.2, 19.4], [-99.3, 19.4], [-99.3, 19.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CUAUTHEMOC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.1, 19.4], [-99.0, 19.4], [-99.0, 19.5], [-99.1, 19.5], [-99.1, 19.4]]]
+      }
+    }
+  ]
+} 

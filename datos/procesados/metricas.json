@@ -1,0 +1,800 @@
+{
+  "urgencias": {
+    "metricas_principales": {
+      "total_facturado": 0.0,
+      "costo_promedio": 0.0,
+      "total_pacientes": 1678,
+      "cambio_porcentual": 0.0,
+      "estancia_promedio": 0.40902366863905326
+    },
+    "distribucion_costos": [
+      {
+        "diagnostico": "Sin diagnóstico",
+        "sum": 0.0,
+        "count": 1678,
+        "porcentaje": NaN
+      }
+    ],
+    "top_servicios": [
+      {
+        "diagnostico": "Sin diagnóstico",
+        "sum": 0.0,
+        "count": 1678,
+        "porcentaje": NaN
+      }
+    ],
+    "alertas": []
+  },
+  "hospitalizacion": {
+    "metricas_principales": {
+      "total_facturado": 0.0,
+      "costo_promedio": 0.0,
+      "total_pacientes": 1678,
+      "cambio_porcentual": 0.0,
+      "estancia_promedio": null
+    },
+    "distribucion_costos": [
+      {
+        "diagnostico": "ABSCESO DEL PULMON CON NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ABSCESO DEL PULMÓN SIN NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS LARINGEA",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS SUBGLÓTICA CONSECUTIVA A PROCEDIMIENTOS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR\r\nNEUMONÍA PULMONAR CRÓNICA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR INSPIRATORIO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "FIBROSIS QUISTICA CON MANIFESTACIONES PULMONARES",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "GRANULOMATOSIS DE WEGENER",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "HEMOPTISIS",
+        "sum": 0.0,
+        "count": 7,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INFECCIÓN LOCAL DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO, NO ESPECIFICADA.",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INFLUENZA CON OTRAS MANIFESTACIONES RESPIRATORIAS, DEBIDA A OTRO VIRUS DE LA INFLUENZA IDENTIFICADO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INSUFICIENCIA RESPIRATORIA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INSUFICIENCIA RESPIRATORIA AGUDA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMONIA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMONIA DEBIDA A OTROS VIRUS",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMONIA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 6,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMOTORAX TRAUMÁTICO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "Neumonía, no Especificada.",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "OBESIDAD EXTREMA CON HIPOVENTILACIÓN ALVEOLAR",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "OTRAS ENFERMEDADES PULMONARES INTERSTICIALES CON FIBROSIS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "Sin diagnóstico",
+        "sum": 0.0,
+        "count": 1601,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TRASTORNO DE LOS TEJIDOS BLANDOS, NO ESPECIFICADO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TUBERCULOSIS DE PULMON, SIN MENCIÓN DE CONFIRMACIÓN BACTERIOLÓGICA O HISTOLÓGICA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULMÓN, PARTE NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDADES DE LA TRAQUEA Y DE LOS BRONQUIOS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD PULMONAR OBSTRUCTIVA CRONICA CON EXACERBACION AGUDA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "CUERPO EXTRAÑO EN EL ORIFICIO NASAL",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "AFECCIONES ALVEOLARES Y ALVEOLOPARIETALES",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "AFECCIÓN PLEURAL, NO ESPECIFICADA.",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ASMA MIXTA",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ASMA, NO ESPECIFICADO",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ATENCIÓN A TRAQUEOSTOMIA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "B24X  ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "BRONCONEUMONÍA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "BRONQUIOLITIS AGUDA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "CELULITIS DE OTRAS PARTES DE LOS MIEMBROS\r\nINFECCIÓN DE TEJIDOS BLANDOS EN EXTTREMIDAD INFERIRO DERECHA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "COVID 19, VIRUS IDENTIFICADO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "CUERPO EXTRAÑO EN LA TRAQUEA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD PULMONAR INTERSTICIAL, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DERRAME PLEURAL",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DERRAME PLEURAL EN AFECCIONES CLASIFICADAS EN OTRA PARTE",
+        "sum": 0.0,
+        "count": 4,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DERRAME PLEURAL NO CLASIFICADO EN OTRA PARTE",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DISNEA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENF. POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD DE LA TRAQUEA Y DE LOS BRONQUIOS, NO CLASIFICADAS EN OTRA PARTE",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)\r\nB24X",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH).",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANMA (VIH)",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULÓN, PARTE NO ESPECIFICADA.",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      }
+    ],
+    "top_servicios": [
+      {
+        "diagnostico": "ABSCESO DEL PULMON CON NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ABSCESO DEL PULMÓN SIN NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS LARINGEA",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS SUBGLÓTICA CONSECUTIVA A PROCEDIMIENTOS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR\r\nNEUMONÍA PULMONAR CRÓNICA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR INSPIRATORIO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "FIBROSIS QUISTICA CON MANIFESTACIONES PULMONARES",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "GRANULOMATOSIS DE WEGENER",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "HEMOPTISIS",
+        "sum": 0.0,
+        "count": 7,
+        "porcentaje": NaN
+      }
+    ],
+    "alertas": []
+  },
+  "combinado": {
+    "metricas_principales": {
+      "total_facturado": 0.0,
+      "costo_promedio": 0.0,
+      "total_pacientes": 1678,
+      "cambio_porcentual": 0.0,
+      "estancia_promedio": null
+    },
+    "distribucion_costos": [
+      {
+        "diagnostico": "ABSCESO DEL PULMON CON NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ABSCESO DEL PULMÓN SIN NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS LARINGEA",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS SUBGLÓTICA CONSECUTIVA A PROCEDIMIENTOS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR\r\nNEUMONÍA PULMONAR CRÓNICA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR INSPIRATORIO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "FIBROSIS QUISTICA CON MANIFESTACIONES PULMONARES",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "GRANULOMATOSIS DE WEGENER",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "HEMOPTISIS",
+        "sum": 0.0,
+        "count": 7,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INFECCIÓN LOCAL DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO, NO ESPECIFICADA.",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INFLUENZA CON OTRAS MANIFESTACIONES RESPIRATORIAS, DEBIDA A OTRO VIRUS DE LA INFLUENZA IDENTIFICADO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INSUFICIENCIA RESPIRATORIA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "INSUFICIENCIA RESPIRATORIA AGUDA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMONIA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMONIA DEBIDA A OTROS VIRUS",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMONIA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 6,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "NEUMOTORAX TRAUMÁTICO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "Neumonía, no Especificada.",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "OBESIDAD EXTREMA CON HIPOVENTILACIÓN ALVEOLAR",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "OTRAS ENFERMEDADES PULMONARES INTERSTICIALES CON FIBROSIS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "Sin diagnóstico",
+        "sum": 0.0,
+        "count": 1601,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TRASTORNO DE LOS TEJIDOS BLANDOS, NO ESPECIFICADO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TUBERCULOSIS DE PULMON, SIN MENCIÓN DE CONFIRMACIÓN BACTERIOLÓGICA O HISTOLÓGICA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULMÓN, PARTE NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDADES DE LA TRAQUEA Y DE LOS BRONQUIOS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD PULMONAR OBSTRUCTIVA CRONICA CON EXACERBACION AGUDA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "CUERPO EXTRAÑO EN EL ORIFICIO NASAL",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "AFECCIONES ALVEOLARES Y ALVEOLOPARIETALES",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "AFECCIÓN PLEURAL, NO ESPECIFICADA.",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ASMA MIXTA",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ASMA, NO ESPECIFICADO",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ATENCIÓN A TRAQUEOSTOMIA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "B24X  ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "BRONCONEUMONÍA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "BRONQUIOLITIS AGUDA, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "CELULITIS DE OTRAS PARTES DE LOS MIEMBROS\r\nINFECCIÓN DE TEJIDOS BLANDOS EN EXTTREMIDAD INFERIRO DERECHA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "COVID 19, VIRUS IDENTIFICADO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "CUERPO EXTRAÑO EN LA TRAQUEA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD PULMONAR INTERSTICIAL, NO ESPECIFICADA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DERRAME PLEURAL",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DERRAME PLEURAL EN AFECCIONES CLASIFICADAS EN OTRA PARTE",
+        "sum": 0.0,
+        "count": 4,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DERRAME PLEURAL NO CLASIFICADO EN OTRA PARTE",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "DISNEA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENF. POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD DE LA TRAQUEA Y DE LOS BRONQUIOS, NO CLASIFICADAS EN OTRA PARTE",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH)\r\nB24X",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH).",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANMA (VIH)",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULÓN, PARTE NO ESPECIFICADA.",
+        "sum": 0.0,
+        "count": 2,
+        "porcentaje": NaN
+      }
+    ],
+    "top_servicios": [
+      {
+        "diagnostico": "ABSCESO DEL PULMON CON NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ABSCESO DEL PULMÓN SIN NEUMONÍA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS LARINGEA",
+        "sum": 0.0,
+        "count": 3,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTENOSIS SUBGLÓTICA CONSECUTIVA A PROCEDIMIENTOS",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR\r\nNEUMONÍA PULMONAR CRÓNICA",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "ESTRIDOR INSPIRATORIO",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "FIBROSIS QUISTICA CON MANIFESTACIONES PULMONARES",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "GRANULOMATOSIS DE WEGENER",
+        "sum": 0.0,
+        "count": 1,
+        "porcentaje": NaN
+      },
+      {
+        "diagnostico": "HEMOPTISIS",
+        "sum": 0.0,
+        "count": 7,
+        "porcentaje": NaN
+      }
+    ],
+    "alertas": []
+  }
+}

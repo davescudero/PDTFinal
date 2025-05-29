@@ -1,0 +1,22 @@
+# Dependencias para generación de diagramas de arquitectura
+# Dashboard de Economía de la Salud con AWS Híbrido
+
+# Biblioteca principal para diagramas de arquitectura
+diagrams>=0.23.0
+
+# Dependencias de Graphviz (motor de renderizado)
+# Nota: También necesitas instalar Graphviz en tu sistema:
+# macOS: brew install graphviz
+# Ubuntu: sudo apt-get install graphviz
+# Windows: Descargar desde https://graphviz.org/download/
+
+# Bibliotecas adicionales para análisis de datos (opcional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Para crear diagramas más avanzados (opcional)
+pillow>=10.0.0
+graphviz>=0.20.0 

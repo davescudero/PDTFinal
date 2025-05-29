@@ -1,0 +1,1069 @@
+{
+  "timestamp": "2025-05-28T02:23:08.644818",
+  "metricas_principales": {
+    "financieras": {
+      "total_facturado": 265140538.23967,
+      "total_costo_directo": 34184830.316857606,
+      "costo_promedio": 158009.85592352206,
+      "margen_bruto": 87.10690166663359
+    },
+    "operacionales": {
+      "total_pacientes": 1678,
+      "pacientes_ultimo_mes": 43,
+      "estancia_promedio": 10.155193992490613,
+      "tasa_mortalidad": 8.64123957091776
+    },
+    "demograficas": {
+      "edad_promedio": 74.83333333333333,
+      "distribucion_sexo": {
+        "MASCULINO": 0.5325443786982249,
+        "FEMENINO": 0.46745562130177515
+      },
+      "distribucion_motivos": {
+        "MEJORÍA": 0.851063829787234,
+        "DEFUNCIÓN": 0.09073842302878599,
+        "VOLUNTAD PROPIA": 0.02690863579474343,
+        "OTRO": 0.015018773466833541,
+        "TRASLADO A OTRA UNIDAD": 0.009386733416770964,
+        "CURACIÓN": 0.0037546933667083854,
+        "Mejoría": 0.0018773466833541927,
+        "Traslado a otra Unidad": 0.0006257822277847309,
+        "Otro": 0.0006257822277847309
+      }
+    }
+  },
+  "analisis_servicios": {
+    "URGENCIAS": {
+      "total_facturado": 223672146.02,
+      "costo_promedio": 183638.87,
+      "total_pacientes": 1218,
+      "estancia_promedio": 11.46,
+      "porcentaje_ingresos": 86.05
+    },
+    "CIRUGÍA": {
+      "total_facturado": 13044939.22,
+      "costo_promedio": 148237.95,
+      "total_pacientes": 88,
+      "estancia_promedio": 4.64,
+      "porcentaje_ingresos": 5.02
+    },
+    "ORL": {
+      "total_facturado": 10169584.67,
+      "costo_promedio": 62775.21,
+      "total_pacientes": 162,
+      "estancia_promedio": 4.37,
+      "porcentaje_ingresos": 3.91
+    },
+    "NEUMOLOGÍA": {
+      "total_facturado": 6222759.55,
+      "costo_promedio": 177793.13,
+      "total_pacientes": 35,
+      "estancia_promedio": 12.37,
+      "porcentaje_ingresos": 2.39
+    },
+    "CIENI": {
+      "total_facturado": 3395321.69,
+      "costo_promedio": 226354.78,
+      "total_pacientes": 15,
+      "estancia_promedio": 20.07,
+      "porcentaje_ingresos": 1.31
+    },
+    "NEUM. PED.": {
+      "total_facturado": 3099649.56,
+      "costo_promedio": 61992.99,
+      "total_pacientes": 50,
+      "estancia_promedio": 4.8,
+      "porcentaje_ingresos": 1.19
+    },
+    "HOSP. DE DÍA": {
+      "total_facturado": 140572.81,
+      "costo_promedio": 46857.6,
+      "total_pacientes": 3,
+      "estancia_promedio": 2.0,
+      "porcentaje_ingresos": 0.05
+    },
+    "MEDICINA DEL SUEÑO": {
+      "total_facturado": 112692.55,
+      "costo_promedio": 56346.28,
+      "total_pacientes": 2,
+      "estancia_promedio": 4.5,
+      "porcentaje_ingresos": 0.04
+    },
+    "T.I. PEDIÁTRICA": {
+      "total_facturado": 29203.37,
+      "costo_promedio": 29203.37,
+      "total_pacientes": 1,
+      "estancia_promedio": 4.0,
+      "porcentaje_ingresos": 0.01
+    },
+    "C. TUBERCULOSIS": {
+      "total_facturado": 22501.65,
+      "costo_promedio": 22501.65,
+      "total_pacientes": 1,
+      "estancia_promedio": 3.0,
+      "porcentaje_ingresos": 0.01
+    },
+    "INTERVENCIONISMO": {
+      "total_facturado": 16961.25,
+      "costo_promedio": 16961.25,
+      "total_pacientes": 1,
+      "estancia_promedio": 1.0,
+      "porcentaje_ingresos": 0.01
+    }
+  },
+  "analisis_motivos_alta": {
+    "MEJORÍA": {
+      "total_facturado": 182137785.81,
+      "costo_promedio": 133924.84,
+      "total_pacientes": 1360,
+      "estancia_promedio": 8.71,
+      "porcentaje_casos": 85.11
+    },
+    "DEFUNCIÓN": {
+      "total_facturado": 60268101.94,
+      "costo_promedio": 415642.08,
+      "total_pacientes": 145,
+      "estancia_promedio": 20.44,
+      "porcentaje_casos": 9.07
+    },
+    "VOLUNTAD PROPIA": {
+      "total_facturado": 6931351.99,
+      "costo_promedio": 161194.23,
+      "total_pacientes": 43,
+      "estancia_promedio": 9.16,
+      "porcentaje_casos": 2.69
+    },
+    "TRASLADO A OTRA UNIDAD": {
+      "total_facturado": 4260410.74,
+      "costo_promedio": 284027.38,
+      "total_pacientes": 15,
+      "estancia_promedio": 21.67,
+      "porcentaje_casos": 0.94
+    },
+    "Traslado a otra Unidad": {
+      "total_facturado": 4228999.75,
+      "costo_promedio": 4228999.75,
+      "total_pacientes": 1,
+      "estancia_promedio": 438.0,
+      "porcentaje_casos": 0.06
+    },
+    "OTRO": {
+      "total_facturado": 3055489.62,
+      "costo_promedio": 127312.07,
+      "total_pacientes": 24,
+      "estancia_promedio": 9.12,
+      "porcentaje_casos": 1.5
+    },
+    "CURACIÓN": {
+      "total_facturado": 591537.47,
+      "costo_promedio": 98589.58,
+      "total_pacientes": 6,
+      "estancia_promedio": 2.83,
+      "porcentaje_casos": 0.38
+    },
+    "Mejoría": {
+      "total_facturado": 129851.25,
+      "costo_promedio": 43283.75,
+      "total_pacientes": 3,
+      "estancia_promedio": 2.0,
+      "porcentaje_casos": 0.19
+    },
+    "Otro": {
+      "total_facturado": 112449.7,
+      "costo_promedio": 112449.7,
+      "total_pacientes": 1,
+      "estancia_promedio": 14.0,
+      "porcentaje_casos": 0.06
+    }
+  },
+  "analisis_geografico": {
+    "alcaldias": {
+      "IZTAPALAPA": {
+        "total_facturado": 25816542.77,
+        "costo_promedio": 164436.58,
+        "total_pacientes": 157,
+        "porcentaje_pacientes": 12.12
+      },
+      "TLALPAN": {
+        "total_facturado": 19623240.79,
+        "costo_promedio": 169165.87,
+        "total_pacientes": 116,
+        "porcentaje_pacientes": 8.96
+      },
+      "COYOACAN": {
+        "total_facturado": 12771224.64,
+        "costo_promedio": 140343.13,
+        "total_pacientes": 91,
+        "porcentaje_pacientes": 7.03
+      },
+      "XOCHIMILCO": {
+        "total_facturado": 5411208.74,
+        "costo_promedio": 96628.73,
+        "total_pacientes": 56,
+        "porcentaje_pacientes": 4.32
+      },
+      "ECATEPEC DE MORELOS": {
+        "total_facturado": 10188415.15,
+        "costo_promedio": 203768.3,
+        "total_pacientes": 50,
+        "porcentaje_pacientes": 3.86
+      },
+      "ALVARO OBREGON": {
+        "total_facturado": 6694443.06,
+        "costo_promedio": 155684.72,
+        "total_pacientes": 43,
+        "porcentaje_pacientes": 3.32
+      },
+      "TLAHUAC": {
+        "total_facturado": 6569387.99,
+        "costo_promedio": 160228.98,
+        "total_pacientes": 41,
+        "porcentaje_pacientes": 3.17
+      },
+      "NEZAHUALCÓYOTL": {
+        "total_facturado": 9917032.0,
+        "costo_promedio": 260974.53,
+        "total_pacientes": 38,
+        "porcentaje_pacientes": 2.93
+      },
+      "BENITO JUAREZ": {
+        "total_facturado": 6074919.43,
+        "costo_promedio": 202497.31,
+        "total_pacientes": 30,
+        "porcentaje_pacientes": 2.32
+      },
+      "IZTACALCO": {
+        "total_facturado": 3844442.83,
+        "costo_promedio": 128148.09,
+        "total_pacientes": 30,
+        "porcentaje_pacientes": 2.32
+      },
+      "GUSTAVO A MADERO": {
+        "total_facturado": 5255975.36,
+        "costo_promedio": 175199.18,
+        "total_pacientes": 30,
+        "porcentaje_pacientes": 2.32
+      },
+      "CUAUHTEMOC": {
+        "total_facturado": 6147544.63,
+        "costo_promedio": 219555.17,
+        "total_pacientes": 28,
+        "porcentaje_pacientes": 2.16
+      },
+      "CHIMALHUACÁN": {
+        "total_facturado": 5285115.15,
+        "costo_promedio": 195745.01,
+        "total_pacientes": 27,
+        "porcentaje_pacientes": 2.08
+      },
+      "NAUCALPAN DE JUÁREZ": {
+        "total_facturado": 3964375.93,
+        "costo_promedio": 152476.0,
+        "total_pacientes": 26,
+        "porcentaje_pacientes": 2.01
+      },
+      "LA MAGDALENA CONTRERAS": {
+        "total_facturado": 4992744.31,
+        "costo_promedio": 192028.63,
+        "total_pacientes": 26,
+        "porcentaje_pacientes": 2.01
+      },
+      "TLALNEPANTLA DE BAZ": {
+        "total_facturado": 3079530.32,
+        "costo_promedio": 139978.65,
+        "total_pacientes": 22,
+        "porcentaje_pacientes": 1.7
+      },
+      "VENUSTIANO CARRANZA": {
+        "total_facturado": 5562774.24,
+        "costo_promedio": 264894.01,
+        "total_pacientes": 21,
+        "porcentaje_pacientes": 1.62
+      },
+      "AZCAPOTZALCO": {
+        "total_facturado": 2680430.96,
+        "costo_promedio": 134021.55,
+        "total_pacientes": 20,
+        "porcentaje_pacientes": 1.54
+      },
+      "IXTAPALUCA": {
+        "total_facturado": 3216851.58,
+        "costo_promedio": 169307.98,
+        "total_pacientes": 19,
+        "porcentaje_pacientes": 1.47
+      },
+      "MIGUEL HIDALGO": {
+        "total_facturado": 5999500.92,
+        "costo_promedio": 461500.07,
+        "total_pacientes": 13,
+        "porcentaje_pacientes": 1.0
+      }
+    },
+    "estados": {
+      "CIUDAD DE MÉXICO": {
+        "total_facturado": 121233279.83,
+        "costo_promedio": 167913.13,
+        "total_pacientes": 722,
+        "porcentaje_pacientes": 55.75
+      },
+      "ESTADO DE MÉXICO": {
+        "total_facturado": 71143206.88,
+        "costo_promedio": 185268.77,
+        "total_pacientes": 384,
+        "porcentaje_pacientes": 29.65
+      },
+      "GUERRERO": {
+        "total_facturado": 8608185.0,
+        "costo_promedio": 318821.67,
+        "total_pacientes": 27,
+        "porcentaje_pacientes": 2.08
+      },
+      "MORELOS": {
+        "total_facturado": 4930591.15,
+        "costo_promedio": 197223.65,
+        "total_pacientes": 25,
+        "porcentaje_pacientes": 1.93
+      },
+      "HIDALGO": {
+        "total_facturado": 3676085.04,
+        "costo_promedio": 153170.21,
+        "total_pacientes": 24,
+        "porcentaje_pacientes": 1.85
+      },
+      "PUEBLA": {
+        "total_facturado": 2773825.49,
+        "costo_promedio": 126082.98,
+        "total_pacientes": 22,
+        "porcentaje_pacientes": 1.7
+      },
+      "VERACRUZ": {
+        "total_facturado": 1873757.93,
+        "costo_promedio": 124917.2,
+        "total_pacientes": 15,
+        "porcentaje_pacientes": 1.16
+      },
+      "OAXACA": {
+        "total_facturado": 2172269.04,
+        "costo_promedio": 167097.62,
+        "total_pacientes": 13,
+        "porcentaje_pacientes": 1.0
+      },
+      "TLAXCALA": {
+        "total_facturado": 1276660.55,
+        "costo_promedio": 98204.66,
+        "total_pacientes": 13,
+        "porcentaje_pacientes": 1.0
+      },
+      "MICHOACÁN": {
+        "total_facturado": 2302804.99,
+        "costo_promedio": 191900.42,
+        "total_pacientes": 12,
+        "porcentaje_pacientes": 0.93
+      },
+      "CHIAPAS": {
+        "total_facturado": 1348265.6,
+        "costo_promedio": 168533.2,
+        "total_pacientes": 8,
+        "porcentaje_pacientes": 0.62
+      },
+      "GUANAJUATO": {
+        "total_facturado": 433211.41,
+        "costo_promedio": 72201.9,
+        "total_pacientes": 6,
+        "porcentaje_pacientes": 0.46
+      },
+      "QUERETARO": {
+        "total_facturado": 1414258.02,
+        "costo_promedio": 282851.6,
+        "total_pacientes": 5,
+        "porcentaje_pacientes": 0.39
+      },
+      "SAN LUIS POTOSI": {
+        "total_facturado": 458205.03,
+        "costo_promedio": 114551.26,
+        "total_pacientes": 4,
+        "porcentaje_pacientes": 0.31
+      },
+      "ZACATECAS": {
+        "total_facturado": 689866.58,
+        "costo_promedio": 229955.53,
+        "total_pacientes": 3,
+        "porcentaje_pacientes": 0.23
+      },
+      "JALISCO": {
+        "total_facturado": 296730.65,
+        "costo_promedio": 98910.22,
+        "total_pacientes": 3,
+        "porcentaje_pacientes": 0.23
+      },
+      "QUINTANA ROO": {
+        "total_facturado": 501362.91,
+        "costo_promedio": 250681.45,
+        "total_pacientes": 2,
+        "porcentaje_pacientes": 0.15
+      },
+      "BAJA CALIFORNIA SUR": {
+        "total_facturado": 572091.13,
+        "costo_promedio": 286045.57,
+        "total_pacientes": 2,
+        "porcentaje_pacientes": 0.15
+      },
+      "NUEVO LEÓN": {
+        "total_facturado": 242361.41,
+        "costo_promedio": 242361.41,
+        "total_pacientes": 1,
+        "porcentaje_pacientes": 0.08
+      },
+      "NAYARIT": {
+        "total_facturado": 115386.12,
+        "costo_promedio": 115386.12,
+        "total_pacientes": 1,
+        "porcentaje_pacientes": 0.08
+      },
+      "BAJA CALIFORNIA": {
+        "total_facturado": 145310.71,
+        "costo_promedio": 145310.71,
+        "total_pacientes": 1,
+        "porcentaje_pacientes": 0.08
+      },
+      "TAMAULIPAS": {
+        "total_facturado": 133027.16,
+        "costo_promedio": 133027.16,
+        "total_pacientes": 1,
+        "porcentaje_pacientes": 0.08
+      },
+      "AGUASCALIENTES": {
+        "total_facturado": 39855.9,
+        "costo_promedio": 39855.9,
+        "total_pacientes": 1,
+        "porcentaje_pacientes": 0.08
+      }
+    }
+  },
+  "tendencias_temporales": {
+    "2025-01": {
+      "total_facturado": 69560813.82,
+      "costo_promedio": 155617.03,
+      "total_pacientes": 447,
+      "estancia_promedio": 10.66
+    },
+    "2025-02": {
+      "total_facturado": 61198405.63,
+      "costo_promedio": 138457.93,
+      "total_pacientes": 442,
+      "estancia_promedio": 8.91
+    },
+    "2025-03": {
+      "total_facturado": 69807375.78,
+      "costo_promedio": 165813.24,
+      "total_pacientes": 421,
+      "estancia_promedio": 10.7
+    },
+    "2025-04": {
+      "total_facturado": 64573943.01,
+      "costo_promedio": 175472.67,
+      "total_pacientes": 368,
+      "estancia_promedio": 10.44
+    }
+  },
+  "alertas": [
+    {
+      "titulo": "Casos de Alto Costo Detectados",
+      "descripcion": "84 casos con costos superiores al percentil 95 ($541,787.24)",
+      "severidad": "alta",
+      "valor": "84",
+      "tipo": "financiero"
+    },
+    {
+      "titulo": "Estancias Prolongadas",
+      "descripcion": "179 casos con estancias superiores al doble del promedio",
+      "severidad": "media",
+      "valor": "179",
+      "tipo": "operacional"
+    },
+    {
+      "titulo": "Tasa de Mortalidad Elevada",
+      "descripcion": "Tasa de mortalidad del 8.64% (145 casos)",
+      "severidad": "alta",
+      "valor": 8.64123957091776,
+      "tipo": "clinico"
+    }
+  ],
+  "machine_learning": {
+    "clustering_ml": [
+      {
+        "servicio": "URGENCIAS",
+        "cluster": 0,
+        "cluster_name": "Alto Volumen",
+        "pacientes": 1218,
+        "costo_promedio": 183638.87,
+        "total_facturado": 223672146.02,
+        "x": 24.36,
+        "y": 36.727774,
+        "z": 243.6
+      },
+      {
+        "servicio": "CIRUGÍA",
+        "cluster": 0,
+        "cluster_name": "Alto Volumen",
+        "pacientes": 88,
+        "costo_promedio": 148237.95,
+        "total_facturado": 13044939.22,
+        "x": 1.76,
+        "y": 29.64759,
+        "z": 100
+      },
+      {
+        "servicio": "ORL",
+        "cluster": 1,
+        "cluster_name": "Volumen Medio-Alto",
+        "pacientes": 162,
+        "costo_promedio": 62775.21,
+        "total_facturado": 10169584.67,
+        "x": 3.24,
+        "y": 12.555042,
+        "z": 100
+      },
+      {
+        "servicio": "NEUMOLOGÍA",
+        "cluster": 1,
+        "cluster_name": "Volumen Medio-Alto",
+        "pacientes": 35,
+        "costo_promedio": 177793.13,
+        "total_facturado": 6222759.55,
+        "x": 0.7,
+        "y": 35.558626000000004,
+        "z": 100
+      },
+      {
+        "servicio": "CIENI",
+        "cluster": 2,
+        "cluster_name": "Volumen Medio",
+        "pacientes": 15,
+        "costo_promedio": 226354.78,
+        "total_facturado": 3395321.69,
+        "x": 0.3,
+        "y": 45.270956,
+        "z": 100
+      },
+      {
+        "servicio": "NEUM. PED.",
+        "cluster": 2,
+        "cluster_name": "Volumen Medio",
+        "pacientes": 50,
+        "costo_promedio": 61992.99,
+        "total_facturado": 3099649.56,
+        "x": 1.0,
+        "y": 12.398598,
+        "z": 100
+      },
+      {
+        "servicio": "HOSP. DE DÍA",
+        "cluster": 3,
+        "cluster_name": "Volumen Bajo",
+        "pacientes": 3,
+        "costo_promedio": 46857.6,
+        "total_facturado": 140572.81,
+        "x": 0.06,
+        "y": 9.37152,
+        "z": 100
+      },
+      {
+        "servicio": "MEDICINA DEL SUEÑO",
+        "cluster": 3,
+        "cluster_name": "Volumen Bajo",
+        "pacientes": 2,
+        "costo_promedio": 56346.28,
+        "total_facturado": 112692.55,
+        "x": 0.04,
+        "y": 11.269256,
+        "z": 100
+      },
+      {
+        "servicio": "T.I. PEDIÁTRICA",
+        "cluster": 4,
+        "cluster_name": "Especializado",
+        "pacientes": 1,
+        "costo_promedio": 29203.37,
+        "total_facturado": 29203.37,
+        "x": 0.02,
+        "y": 5.840674,
+        "z": 100
+      },
+      {
+        "servicio": "C. TUBERCULOSIS",
+        "cluster": 4,
+        "cluster_name": "Especializado",
+        "pacientes": 1,
+        "costo_promedio": 22501.65,
+        "total_facturado": 22501.65,
+        "x": 0.02,
+        "y": 4.50033,
+        "z": 100
+      },
+      {
+        "servicio": "INTERVENCIONISMO",
+        "cluster": 4,
+        "cluster_name": "Especializado",
+        "pacientes": 1,
+        "costo_promedio": 16961.25,
+        "total_facturado": 16961.25,
+        "x": 0.02,
+        "y": 3.39225,
+        "z": 100
+      }
+    ],
+    "alertas_ml": [
+      {
+        "id": 1,
+        "service": "CIRUGÍA",
+        "prediction": "Incremento del 14.1%",
+        "confidence": "Alta",
+        "impact": "Medio",
+        "descripcion": "Predicción estadística para CIRUGÍA",
+        "valor_actual": 13044939.22,
+        "modelo_usado": "Análisis Estadístico Simple"
+      },
+      {
+        "id": 2,
+        "service": "ORL",
+        "prediction": "Incremento del 13.8%",
+        "confidence": "Alta",
+        "impact": "Medio",
+        "descripcion": "Predicción estadística para ORL",
+        "valor_actual": 10169584.67,
+        "modelo_usado": "Análisis Estadístico Simple"
+      },
+      {
+        "id": 3,
+        "service": "T.I. PEDIÁTRICA",
+        "prediction": "Disminución del 16.9%",
+        "confidence": "Baja",
+        "impact": "Bajo",
+        "descripcion": "Predicción estadística para T.I. PEDIÁTRICA",
+        "valor_actual": 29203.37,
+        "modelo_usado": "Análisis Estadístico Simple"
+      },
+      {
+        "id": 4,
+        "service": "C. TUBERCULOSIS",
+        "prediction": "Disminución del 18.1%",
+        "confidence": "Baja",
+        "impact": "Bajo",
+        "descripcion": "Predicción estadística para C. TUBERCULOSIS",
+        "valor_actual": 22501.65,
+        "modelo_usado": "Análisis Estadístico Simple"
+      }
+    ],
+    "resumen_modelos": {
+      "modelos_disponibles": {
+        "demanda": true,
+        "costos": true,
+        "clustering": true
+      },
+      "metricas": {
+        "demanda": {
+          "promedio_historico": 13.983333333333333,
+          "desviacion_estandar": 6.360009608658011,
+          "tendencia_diaria": -0.021716785887908884,
+          "precision_estimada": "60.0%"
+        },
+        "costos": {
+          "promedio_mensual": 11579931.497188423,
+          "crecimiento_mensual_pct": 22.74362994817172,
+          "tendencia_absoluta": 2633696.767972316,
+          "precision_estimada": "75-85%",
+          "columna_fecha_usada": "fecha",
+          "columna_costo_usada": "costo_nivel_6"
+        },
+        "clustering": {
+          "n_clusters": 5,
+          "n_servicios": 11,
+          "metodo": "Segmentación por percentiles de facturación"
+        }
+      },
+      "version": "1.0-Simple",
+      "algoritmos_usados": {
+        "demanda": "Regresión Lineal Simple + Patrones Estacionales",
+        "costos": "Análisis de Tendencias + Factores Estacionales",
+        "segmentacion": "Clustering por Percentiles"
+      },
+      "nota": "Modelos estadísticos simples entrenados con datos reales del hospital"
+    },
+    "predicciones_demanda": [
+      {
+        "fecha": "2025-05-28",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-05-29",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-05-30",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-05-31",
+        "pacientes_predichos": 15,
+        "urgencias_estimadas": 10,
+        "hospitalizacion_estimada": 4
+      },
+      {
+        "fecha": "2025-06-01",
+        "pacientes_predichos": 10,
+        "urgencias_estimadas": 7,
+        "hospitalizacion_estimada": 2
+      },
+      {
+        "fecha": "2025-06-02",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-03",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-04",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-05",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-06",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-07",
+        "pacientes_predichos": 14,
+        "urgencias_estimadas": 10,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-08",
+        "pacientes_predichos": 9,
+        "urgencias_estimadas": 6,
+        "hospitalizacion_estimada": 2
+      },
+      {
+        "fecha": "2025-06-09",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-10",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-11",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-12",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-13",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-14",
+        "pacientes_predichos": 14,
+        "urgencias_estimadas": 10,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-15",
+        "pacientes_predichos": 9,
+        "urgencias_estimadas": 6,
+        "hospitalizacion_estimada": 2
+      },
+      {
+        "fecha": "2025-06-16",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-17",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-18",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-19",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-20",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-21",
+        "pacientes_predichos": 14,
+        "urgencias_estimadas": 10,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-22",
+        "pacientes_predichos": 9,
+        "urgencias_estimadas": 6,
+        "hospitalizacion_estimada": 2
+      },
+      {
+        "fecha": "2025-06-23",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-24",
+        "pacientes_predichos": 13,
+        "urgencias_estimadas": 9,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-25",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      },
+      {
+        "fecha": "2025-06-26",
+        "pacientes_predichos": 12,
+        "urgencias_estimadas": 8,
+        "hospitalizacion_estimada": 3
+      }
+    ],
+    "predicciones_costos": [
+      {
+        "name": "Oct",
+        "actual": 121531.57561,
+        "prediccion": 121531.57561,
+        "tipo": "historico"
+      },
+      {
+        "name": "Nov",
+        "actual": 267463.7854,
+        "prediccion": 267463.7854,
+        "tipo": "historico"
+      },
+      {
+        "name": "Dic",
+        "actual": 270870.42043,
+        "prediccion": 270870.42043,
+        "tipo": "historico"
+      },
+      {
+        "name": "Ene",
+        "actual": 329468.02953,
+        "prediccion": 329468.02953,
+        "tipo": "historico"
+      },
+      {
+        "name": "Feb",
+        "actual": 226809.36005,
+        "prediccion": 226809.36005,
+        "tipo": "historico"
+      },
+      {
+        "name": "Mar",
+        "actual": 375900.46561,
+        "prediccion": 375900.46561,
+        "tipo": "historico"
+      },
+      {
+        "name": "Abr",
+        "actual": 845735.81386,
+        "prediccion": 845735.81386,
+        "tipo": "historico"
+      },
+      {
+        "name": "May",
+        "actual": 654148.70001,
+        "prediccion": 654148.70001,
+        "tipo": "historico"
+      },
+      {
+        "name": "Jun",
+        "actual": 480684.22713,
+        "prediccion": 480684.22713,
+        "tipo": "historico"
+      },
+      {
+        "name": "Jul",
+        "actual": 506294.73024,
+        "prediccion": 506294.73024,
+        "tipo": "historico"
+      },
+      {
+        "name": "Ago",
+        "actual": 467063.52065,
+        "prediccion": 467063.52065,
+        "tipo": "historico"
+      },
+      {
+        "name": "Sep",
+        "actual": 462311.99344,
+        "prediccion": 462311.99344,
+        "tipo": "historico"
+      },
+      {
+        "name": "Oct",
+        "actual": 1351181.97554,
+        "prediccion": 1351181.97554,
+        "tipo": "historico"
+      },
+      {
+        "name": "Nov",
+        "actual": 2169613.80695,
+        "prediccion": 2169613.80695,
+        "tipo": "historico"
+      },
+      {
+        "name": "Dic",
+        "actual": 18172060.23601,
+        "prediccion": 18172060.23601,
+        "tipo": "historico"
+      },
+      {
+        "name": "Ene",
+        "actual": 57414168.67913,
+        "prediccion": 57414168.67913,
+        "tipo": "historico"
+      },
+      {
+        "name": "Feb",
+        "actual": 53196064.67772,
+        "prediccion": 53196064.67772,
+        "tipo": "historico"
+      },
+      {
+        "name": "Mar",
+        "actual": 50930001.64473,
+        "prediccion": 50930001.64473,
+        "tipo": "historico"
+      },
+      {
+        "name": "Abr",
+        "actual": 31777324.80454,
+        "prediccion": 31777324.80454,
+        "tipo": "historico"
+      },
+      {
+        "name": "May (P)",
+        "actual": null,
+        "prediccion": 37916899.17691158,
+        "tipo": "prediccion"
+      },
+      {
+        "name": "Jun (P)",
+        "actual": null,
+        "prediccion": 40550595.9448839,
+        "tipo": "prediccion"
+      },
+      {
+        "name": "Jul (P)",
+        "actual": null,
+        "prediccion": 41025078.07721341,
+        "tipo": "prediccion"
+      },
+      {
+        "name": "Ago (P)",
+        "actual": null,
+        "prediccion": 43527090.00678711,
+        "tipo": "prediccion"
+      },
+      {
+        "name": "Sep (P)",
+        "actual": null,
+        "prediccion": 48451686.248800844,
+        "tipo": "prediccion"
+      },
+      {
+        "name": "Oct (P)",
+        "actual": null,
+        "prediccion": 51085383.016773164,
+        "tipo": "prediccion"
+      }
+    ],
+    "metricas_modelos": {
+      "demanda": {
+        "promedio_historico": 13.983333333333333,
+        "desviacion_estandar": 6.360009608658011,
+        "tendencia_diaria": -0.021716785887908884,
+        "precision_estimada": "60.0%"
+      },
+      "costos": {
+        "promedio_mensual": 11579931.497188423,
+        "crecimiento_mensual_pct": 22.74362994817172,
+        "tendencia_absoluta": 2633696.767972316,
+        "precision_estimada": "75-85%",
+        "columna_fecha_usada": "fecha",
+        "columna_costo_usada": "costo_nivel_6"
+      },
+      "clustering": {
+        "n_clusters": 5,
+        "n_servicios": 11,
+        "metodo": "Segmentación por percentiles de facturación"
+      }
+    },
+    "disponible": true,
+    "tipo": "Estadistico_Simple"
+  },
+  "metadatos": {
+    "total_registros_procesados": 1678,
+    "registros_detalle": 555233,
+    "periodo_datos": {
+      "inicio": "2025-01-01T12:46:47",
+      "fin": "2025-04-30T21:47:38"
+    },
+    "calidad_datos": {
+      "completitud_costos": 100.0,
+      "completitud_demograficos": 0.7151370679380215,
+      "completitud_geograficos": 77.17520858164481
+    },
+    "modelos_ml": {
+      "disponibles": false,
+      "entrenados": true,
+      "version": "v2.0-ML"
+    }
+  }
+}

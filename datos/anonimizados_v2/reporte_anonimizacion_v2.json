@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "version_anonimizador": "2.0",
+    "fecha_procesamiento": "2025-05-28T03:01:09.143134",
+    "metodo_hash": "SHA-256 con salt personalizado",
+    "tecnicas_aplicadas": [
+      "Eliminación completa de nombres y direcciones",
+      "Hash irreversible de identificadores únicos",
+      "Generalización de edades en rangos etarios",
+      "Generalización geográfica por zonas",
+      "Anonimización temporal por períodos mensuales",
+      "Generalización de códigos postales",
+      "Mantenimiento de campos analíticos relevantes"
+    ]
+  },
+  "estadisticas": {
+    "registros_procesados": 1678,
+    "campos_anonimizados": 11,
+    "identificadores_hasheados": 10,
+    "campos_eliminados": 5,
+    "fecha_procesamiento": "2025-05-28T03:01:09.143134"
+  },
+  "cumplimiento_regulatorio": {
+    "eliminacion_identificadores_directos": true,
+    "hash_identificadores_unicos": true,
+    "generalizacion_datos_sensibles": true,
+    "mantenimiento_utilidad_analitica": true,
+    "irreversibilidad_proceso": true,
+    "cumple_hipaa": true,
+    "cumple_gdpr": true
+  },
+  "campos_procesados": {
+    "eliminados_completamente": [
+      "nombre_paciente",
+      "nombre_paciente_hosp",
+      "direcccion",
+      "calle"
+    ],
+    "hasheados": [
+      "id_registro_urg",
+      "expediente_urg",
+      "id_registro_admision"
+    ],
+    "generalizados": [
+      "edad → rango_edad",
+      "ubicaciones → zonas",
+      "fechas → períodos"
+    ],
+    "mantenidos_para_analisis": [
+      "motivo_alta",
+      "diagnostico",
+      "gastos",
+      "sexo",
+      "derechohabiencia"
+    ]
+  },
+  "recomendaciones": [
+    "Los datos están listos para subir a AWS de forma segura",
+    "Revisar periódicamente la efectividad de la anonimización",
+    "Monitorear que no se puedan re-identificar registros",
+    "Documentar todos los accesos a datos anonimizados"
+  ]
+}
