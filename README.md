@@ -234,8 +234,8 @@ curl -X POST http://localhost:3000/api/predictive \
 ## 📚 **Documentación Adicional**
 
 ### **Working Backwards**
-- 📋 [`working_backwards/WORKING_BACKWARDS_FINAL.md`](working_backwards/WORKING_BACKWARDS_FINAL.md) - Documento completo
-- 📰 [`working_backwards/press_release_actualizado.md`](working_backwards/press_release.md) - Press release
+- 📋 [`working_backwards/WORKING_BACKWARDS.md`](working_backwards/WORKING_BACKWARDS_FINAL.md) - Documento completo
+- 📰 [`working_backwards/press_release.md`](working_backwards/press_release.md) - Press release
 - ❓ [`working_backwards/faq.md`](working_backwards/faq.md) - Preguntas frecuentes
 
 ---
